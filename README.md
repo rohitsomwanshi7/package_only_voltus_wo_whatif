@@ -18,4 +18,3 @@ tlef example.tlef
 exttech qrcTechFile
 pkg example_top sample_pkg.ckt pkg_mapping_file
 pwl M12 0ns 0mA 1ns 0mA 1.9ns 0mA 2ns 10mA 4ns 0mA
-
